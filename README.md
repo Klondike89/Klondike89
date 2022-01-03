@@ -11,5 +11,13 @@ Growing up engineering and technology were always passionate fascinations of min
     * A closed circuit secrurity system made from microcontrollers.
     * My personal blog that I host and maintain on a dedicated server.
     * A webscraping program to find deals on the consumables that I use most.
-- 📫 Feel free to reach out to me on [Twitter](https://twitter.com/klondikecoder) or at [Gmail](mailto:klondikecoder@gmail.com)
+
+# 📫 Feel free to reach out to me on:
+<p align="center">
+ <a href="https://twitter.com/klondikecoder"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/brian-murphy-ba11b475" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:klondikecoder@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
 
